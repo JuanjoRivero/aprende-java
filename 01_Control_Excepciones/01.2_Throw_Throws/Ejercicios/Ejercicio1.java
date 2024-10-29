@@ -10,7 +10,7 @@ de error "Error: La edad debe ser al menos 18 años."
 public class Ejercicio1 {
     public static void main(String[] args) {
         try {
-            validarEdad(15); // Provoca IllegalArgumentException
+            validarEdad(15); // -> Provoca IllegalArgumentException
         } catch () { // RELLENA EL PARENTESIS
             // Completa aquí para capturar la excepción y mostrar el mensaje de error
         }
