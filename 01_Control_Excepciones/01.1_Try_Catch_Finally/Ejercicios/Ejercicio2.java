@@ -1,4 +1,3 @@
-package org.example;
 /*
 Ejercicio 2: Conversión de Cadenas y Uso de getMessage()
 
