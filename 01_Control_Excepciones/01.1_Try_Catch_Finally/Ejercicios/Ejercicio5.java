@@ -1,4 +1,3 @@
-package org.example;
 /*
 Ejercicio 5: Excepciones Anidadas y Métodos toString() y getMessage()
 
