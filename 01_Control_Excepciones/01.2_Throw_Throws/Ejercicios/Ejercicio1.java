@@ -1,4 +1,3 @@
-package org.example;
 /*
 Ejercicio 1: Lanzar Excepción Básica
 
