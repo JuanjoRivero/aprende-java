@@ -1,4 +1,3 @@
-package org.example;
 /*
 Ejercicio 1: Captura de Excepción Básica
 
