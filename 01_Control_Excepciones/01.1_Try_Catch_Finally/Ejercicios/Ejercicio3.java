@@ -1,4 +1,3 @@
-package org.example;
 /*
 Ejercicio 3: Uso de finally para Recursos de Limpieza
 
