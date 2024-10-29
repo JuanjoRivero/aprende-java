@@ -1,4 +1,3 @@
-package org.example;
 /*
 Ejercicio 4: Captura de Múltiples Excepciones
 
@@ -10,7 +9,7 @@ cada excepción y muestra un mensaje diferente para cada una.
 public class Ejercicio4 {
     public static void main(String[] args) {
         try {
-            probarExcepciones(16, 0); // Provoca IllegalArgumentException y ArithmeticException
+            probarExcepciones(16, 0); // -> Provoca IllegalArgumentException y ArithmeticException
         } catch () { // RELLENA EL PARENTESIS
             // Completa aquí para capturar IllegalArgumentException y mostrar el mensaje de error
         } catch () { // RELLENA EL PARENTESIS
