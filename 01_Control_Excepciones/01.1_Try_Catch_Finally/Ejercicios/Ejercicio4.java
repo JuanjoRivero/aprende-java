@@ -1,4 +1,3 @@
-package org.example;
 /*
 Ejercicio 4: Manejo de Múltiples Excepciones y Uso de printStackTrace()
 
