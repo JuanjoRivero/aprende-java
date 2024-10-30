@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 /*
 Ejercicio 3: Uso de finally para Recursos de Limpieza
 
