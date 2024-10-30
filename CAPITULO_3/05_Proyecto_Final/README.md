@@ -24,8 +24,6 @@ Define al menos los siguientes métodos en tu clase de inventario. Los nombres s
   
 - `actualizarCantidad(String nombre, int nuevaCantidad)`: Este método debe buscar un producto por su nombre y actualizar su cantidad. Si la cantidad es negativa o el producto no existe, lanza una excepción.
 
-- `crearProducto(String nombre, int cantidad, float precio)`: Este método debe crear un nuevo objeto que almacene estos atributos
-
 ### Extras
 
 Si deseas ir un paso más allá, considera implementar una opción para buscar un producto por nombre, y otra para mostrar todos los productos con sus detalles en una lista detallada del inventario.
