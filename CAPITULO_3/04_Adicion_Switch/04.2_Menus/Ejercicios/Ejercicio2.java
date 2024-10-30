@@ -1,7 +1,7 @@
 /*
 Ejercicio 2: Menú con Manejo de Errores
 
-Crea un programa en Java llamado MenuConManejoErrores.java que muestre un menú con las siguientes opciones:
+Crea un programa en Java que muestre un menú con las siguientes opciones:
 1. Mostrar mensaje de bienvenida.
 2. Mostrar mensaje de despedida.
 3. Salir del programa.

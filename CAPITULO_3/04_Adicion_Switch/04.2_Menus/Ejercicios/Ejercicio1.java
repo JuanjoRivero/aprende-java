@@ -1,7 +1,7 @@
 /*
 Ejercicio 1: Menú Básico
 
-Crea un programa en Java llamado MenuBasico.java que muestre un menú con tres opciones:
+Crea un programa en Java que muestre un menú con tres opciones:
 1. Mostrar mensaje de bienvenida.
 2. Mostrar mensaje de despedida.
 3. Salir del programa.
