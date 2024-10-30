@@ -5,7 +5,8 @@ Imagina que una tienda pequeña necesita ayuda para gestionar su inventario de p
 El sistema debe incluir:
 1. **Manejo de productos**: Crea una clase que represente un producto en el inventario. Define atributos como el nombre, la cantidad y el precio de cada producto. Este sistema debería ser capaz de:
    - Almacenar una lista de productos.
-   - Agregar, actualizar, y eliminar productos.
+   - Poder crear objetos con un método.
+   - Agregar y actualizar.
    - Realizar validaciones para asegurar que tanto la cantidad como el precio sean siempre positivos.
    - Manejar casos en que se intente acceder a productos no registrados.
 
@@ -22,8 +23,8 @@ Define al menos los siguientes métodos en tu clase de inventario. Los nombres s
 - `agregarProducto(Producto producto)`: Este método debe agregar un producto al inventario. Asegúrate de validar que el producto no exista previamente.
   
 - `actualizarCantidad(String nombre, int nuevaCantidad)`: Este método debe buscar un producto por su nombre y actualizar su cantidad. Si la cantidad es negativa o el producto no existe, lanza una excepción.
-  
-- `eliminarProducto(String nombre)`: Busca el producto en el inventario y lo elimina si existe.
+
+- `crearProducto(String nombre, int cantidad, float precio)`: Este método debe crear un nuevo objeto que almacene estos atributos
 
 ### Extras
 
